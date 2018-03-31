@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NGINXbalansing:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="NGINXbalansing-1.0.war" />
+  </artifact>
+</component>
